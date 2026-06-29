@@ -45,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CYBERMONK2312/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
