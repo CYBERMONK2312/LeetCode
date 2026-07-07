@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CYBERMONK2312/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CYBERMONK2312/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
