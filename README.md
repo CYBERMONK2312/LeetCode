@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CYBERMONK2312/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CYBERMONK2312/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CYBERMONK2312/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/CYBERMONK2312/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
