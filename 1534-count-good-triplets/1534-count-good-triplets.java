@@ -1,14 +1,26 @@
 class Solution {
     public int countGoodTriplets(int[] arr, int a, int b, int c) {
-        int count = 0;
-        int n = arr.length;
-        for(int i=0;i<n-2; i++){
-            for(int j=i+1; j<n-1; j++){
-                for(int k=j+1; k<n; k++){
-                    if((Math.abs(arr[i] - arr[j]) <= a) &&  (Math.abs(arr[j] - arr[k]) <= b) && (Math.abs(arr[i] - arr[k]) <= c)) count++;
+        int res = 0;
+        int[] interval = new int[1001];
+
+        for (int j = 0; j < arr.length; j++) {
+            for (int k = j + 1; k < arr.length; k++) {
+                if (Math.abs(arr[j] - arr[k]) <= b) {
+                    int left = Math.max(0, Math.max(arr[j] - a, arr[k] - c));
+                    int right = Math.min(1000, Math.min(arr[j] + a, arr[k] + c));
+                    if (left <= right) {
+                        if (left == 0)
+                            res += interval[right];
+                        else
+                            res += interval[right] - interval[left - 1];
+                    }
                 }
             }
+            for (int ind = arr[j]; ind <= 1000; ind++) {
+                interval[ind]++;
+            }
         }
-        return count;
+
+        return res;
     }
 }
