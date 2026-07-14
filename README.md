@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CYBERMONK2312/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/CYBERMONK2312/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/CYBERMONK2312/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CYBERMONK2312/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/0015-3sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/CYBERMONK2312/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CYBERMONK2312/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
