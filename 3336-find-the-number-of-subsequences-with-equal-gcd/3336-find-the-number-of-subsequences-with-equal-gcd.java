@@ -1,37 +1,30 @@
 class Solution {
-    private static final int MOD = 1000000007;
-    private int gcd(int a, int b) {
-        while(b != 0) {
-            int temp = a;
-            a = b;
-            b = temp % b;
+    int mod;
+    public int subsequencePairCount(int[] arr) {
+        mod=1000000007;
+        int n=arr.length;
+        int max=-1; 
+        for(int ele:arr){
+            max=Math.max(max,ele);
         }
-        return a;
+        Integer [][][] dp=new Integer[n][max+1][max+1];
+        return check(dp,0,0,0,arr);
     }
-    public int subsequencePairCount(int[] nums) {
-        int maxVal = 0;
-        for(int num : nums) maxVal = Math.max(maxVal, num);
-
-        int dp[][] = new int[maxVal + 1][maxVal + 1];
-        dp[0][0] = 1;
-
-        for(int num : nums) {
-            int ndp[][] = new int[maxVal + 1][maxVal + 1];
-            for(int j = 0; j <= maxVal; j++) {
-                int divisor1 = gcd(j, num);
-                for(int k = 0; k <= maxVal; k++) {
-                    int val = dp[j][k];
-                    if(val == 0) continue;
-                    int divisor2 = gcd(k, num);
-                    ndp[j][k] = (ndp[j][k] + val) % MOD;
-                    ndp[divisor1][k] = (ndp[divisor1][k] + val) % MOD;
-                    ndp[j][divisor2] = (ndp[j][divisor2] + val) % MOD;
-                }
-            }
-            dp = ndp;
+    public int check(Integer [][][] dp,int i,int gcda,int gcdb,int [] arr){
+        if(i==arr.length){
+            return (gcda != 0 && gcdb != 0 && gcda == gcdb)?1:0;
         }
-        int result = 0;
-        for(int j = 1; j <= maxVal; j++) result = (result + dp[j][j]) % MOD;
-        return result;
+        if(dp[i][gcda][gcdb]!=null)return dp[i][gcda][gcdb];
+        int takeA=check(dp,i+1,gcd(gcda,arr[i]),gcdb,arr);
+        int takeB=check(dp,i+1,gcda,gcd(gcdb,arr[i]),arr);
+        int notTake=check(dp,i+1,gcda,gcdb,arr);
+    return dp[i][gcda][gcdb]=(int)((1L*takeA+takeB+notTake)%mod);
     }
+    public int gcd(int a,int b){
+       while(b!=0){
+          int temp=b;
+          b=a%b;
+          a=temp;
+       }   
+    return a;}
 }
