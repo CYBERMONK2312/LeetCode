@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CYBERMONK2312/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/CYBERMONK2312/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/CYBERMONK2312/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
