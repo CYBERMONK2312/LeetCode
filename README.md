@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CYBERMONK2312/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CYBERMONK2312/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CYBERMONK2312/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/CYBERMONK2312/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/CYBERMONK2312/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CYBERMONK2312/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -247,4 +249,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/CYBERMONK2312/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/CYBERMONK2312/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
