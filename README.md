@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/CYBERMONK2312/LeetCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/CYBERMONK2312/LeetCode/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/CYBERMONK2312/LeetCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/CYBERMONK2312/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
