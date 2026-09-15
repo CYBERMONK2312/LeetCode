@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CYBERMONK2312/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/0015-3sum) |
+| [1768-merge-strings-alternately](https://github.com/CYBERMONK2312/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CYBERMONK2312/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/CYBERMONK2312/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/CYBERMONK2312/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CYBERMONK2312/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/CYBERMONK2312/LeetCode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/CYBERMONK2312/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
