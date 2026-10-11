@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/CYBERMONK2312/LeetCode/tree/master/1534-count-good-triplets) |
 | [1563-stone-game-v](https://github.com/CYBERMONK2312/LeetCode/tree/master/1563-stone-game-v) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CYBERMONK2312/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CYBERMONK2312/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/CYBERMONK2312/LeetCode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CYBERMONK2312/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/CYBERMONK2312/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/CYBERMONK2312/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CYBERMONK2312/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/CYBERMONK2312/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/CYBERMONK2312/LeetCode/tree/master/2029-stone-game-ix) |
