@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CYBERMONK2312/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/CYBERMONK2312/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/CYBERMONK2312/LeetCode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CYBERMONK2312/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/CYBERMONK2312/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/CYBERMONK2312/LeetCode/tree/master/0835-image-overlap) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/CYBERMONK2312/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/CYBERMONK2312/LeetCode/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/CYBERMONK2312/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/CYBERMONK2312/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/CYBERMONK2312/LeetCode/tree/master/0728-self-dividing-numbers) |
