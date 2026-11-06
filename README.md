@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/CYBERMONK2312/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/CYBERMONK2312/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CYBERMONK2312/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/CYBERMONK2312/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CYBERMONK2312/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/CYBERMONK2312/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CYBERMONK2312/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CYBERMONK2312/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/CYBERMONK2312/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/CYBERMONK2312/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CYBERMONK2312/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CYBERMONK2312/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CYBERMONK2312/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/CYBERMONK2312/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CYBERMONK2312/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CYBERMONK2312/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CYBERMONK2312/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CYBERMONK2312/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/CYBERMONK2312/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CYBERMONK2312/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/CYBERMONK2312/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CYBERMONK2312/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CYBERMONK2312/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CYBERMONK2312/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
